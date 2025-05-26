@@ -1,8 +1,8 @@
 ---
-givenName: Stacy
-familyName: Fakename
-title: Editor
-location: Cortex City, Mentopolis
+givenName: Ali
+familyName: Oktay
+title: Software Engineer
+location: Graz, Austria
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices in iaculis nunc sed augue lacus viverra vitae congue. Neque viverra [justo nec ultrices](#). Urna nunc id cursus metus aliquam eleifend mi in nulla. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra.
+Experienced Senior Software Engineer with over 13 years of success designing, developing, and delivering scalable web and backend systems. Skilled in Java, Spring, Angular, microservices, and serverless architectures. Proven ability to lead teams, modernize legacy systems, and enhance product performance across industries. Strong in software architecture and performance optimization with a solid understanding of DevOps and SRE practices.

@@ -29,7 +29,6 @@ import Star from 'src/components/pdf/icons/star';
 import { getAccentColor, getNeutralColor } from 'src/helpers/colors';
 import {
   fullName,
-  sortedAchievements,
   sortedProfessionalExperiences,
 } from 'src/helpers/utilities';
 
@@ -353,26 +352,6 @@ export default function PDF({ privateInformation }: PDFProperties): ReactNode {
                 <Html {...htmlProperties}>
                   {professionalExperience.body.html}
                 </Html>
-              </View>
-            ))}
-          </View>
-          <View style={styles.section}>
-            <View style={styles.sectionHeading}>
-              <CircleGraduationCap size={fontSizes.m} />
-              <Text>Achievements</Text>
-            </View>
-            {sortedAchievements.map((achievement) => (
-              <View key={achievement._id}>
-                <View style={styles.itemHeading}>
-                  <Text style={styles.bold}>{achievement.achievement}</Text>
-                </View>
-                <View style={styles.itemSubheadingRow}>
-                  <BuildingColumns size={fontSizes.xxs} />
-                  <Text style={styles.itemSubheading}>
-                    {achievement.organization}
-                  </Text>
-                </View>
-                <Html {...htmlProperties}>{achievement.body.html}</Html>
               </View>
             ))}
           </View>
