@@ -27,8 +27,14 @@ export const Personal = defineDocumentType(() => ({
     location: {
       type: 'string',
       description:
-        'Your general location of residence, not your personal address',
+          'Your general location of residence, not your personal address',
       required: true,
+    },
+    linkedin: {
+      type: 'string',
+      description:
+          'linkedin profile',
+      required: false,
     },
   },
 }));

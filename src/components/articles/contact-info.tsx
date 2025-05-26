@@ -19,9 +19,12 @@ export default function ContactInformation({
       />
 
       <ul>
-        <li>
-          <strong>Location:</strong> {personal.location}
-        </li>
+          <li>
+              <strong>Location:</strong> {personal.location}
+          </li>
+          <li>
+              <strong>Linkedin:</strong> <a target="_blank" rel="noopener noreferrer" href={personal.linkedin}>{personal.linkedin}</a>
+          </li>
 
         {/* private access required */}
         {privateInformation?.map((privateField) => (
