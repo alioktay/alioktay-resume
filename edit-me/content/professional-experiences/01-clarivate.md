@@ -6,6 +6,6 @@ titles:
     endDate: January 2025
 ---
 
-- Led the development of a product focused on the US Patent Office application process
-- Owned design and rollout of Backstage Software Catalog, developed custom plugins, and supported team integrations
-- Contributed to internal DevOps/SRE efforts by building automation tools and improving metric visibility
+- Led the end-to-end development of a **US Patent Office application management platform**, improving system reliability and feature delivery for enterprise clients.
+- Designed and rolled out the internal **Backstage Software Catalog**, developed custom plugins, and streamlined cross-team service integrations.
+- Strengthened **DevOps and SRE** initiatives by automating deployment workflows and enhancing monitoring dashboards for better metric visibility and incident response.

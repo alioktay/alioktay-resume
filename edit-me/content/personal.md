@@ -1,9 +1,12 @@
 ---
 givenName: Ali
 familyName: Oktay
-title: Software Engineer
+title: Senior Software Engineer
 location: Graz, Austria
 linkedin: https://www.linkedin.com/in/ali-oktay-570a5b42/
 ---
 
-Experienced Senior Software Engineer with over 13 years of success designing, developing, and delivering scalable web and backend systems. Skilled in Java, Spring, Angular, microservices, and serverless architectures. Proven ability to lead teams, modernize legacy systems, and enhance product performance across industries. Strong in software architecture and performance optimization with a solid understanding of DevOps and SRE practices.
+Senior Software Engineer with 13+ years of experience designing, developing, and scaling **web and backend systems** across multiple industries.  
+Specialized in **Java (Spring Boot)**, **Angular**, **microservices**, and **cloud-native architectures** with hands-on expertise in **AWS** and **CI/CD automation**.
+
+Proven track record in **modernizing legacy platforms**, leading **cross-functional teams**, and improving **system performance and reliability** through strong **software architecture**, **DevOps**, and **SRE** practices.

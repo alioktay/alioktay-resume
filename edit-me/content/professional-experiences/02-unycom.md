@@ -6,7 +6,7 @@ titles:
     endDate: February 2021
 ---
 
-- Dockerized the main application to improve development and testing workflows
+- **Dockerized and containerized** the main **Intellectual Property Management System**, which significantly improved build developer experience.
 - Upgraded Java version in a large monolithic codebase to ensure compatibility and performance
-- Maintained and enhanced supporting microservices that extended core product functionality
-- Modernized UI using legacy tech stack (GWT, plain JS)
+- Developed and optimized **supporting microservices** extending the core product’s business capabilities and third-party integrations.
+- Modernized legacy **UI components** built with **GWT** and plain JavaScript, introducing reusable modules and improving maintainability.
